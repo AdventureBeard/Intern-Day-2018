@@ -1,4 +1,4 @@
-# Intern-Day-2018
+# Intern Day 2018
 
 ### Welcome to Plus1 Labs Intern Day 2018! 
 
