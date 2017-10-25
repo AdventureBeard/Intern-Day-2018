@@ -9,7 +9,7 @@ Some things you might want to read up on:
 * Working with Git and Github
 * Model-View-Controller pattern
 
-Don't go too crazy with research; be sure to get some sleep.  We want this experience to model what day-to-day life is on a fast-moving product development team, and not knowing everything before diving in is 100% part of it. We hope you enjoy the day and don't be afraid to ask questions.
+Don't go too crazy with research; be sure to get some sleep.  We want this experience to model what day-to-day life is on a fast-paced product development team, and not knowing everything before diving in is 100% part of it. We hope you enjoy the day and don't be afraid to ask questions.
 
 Plus1 Labs Team
 
